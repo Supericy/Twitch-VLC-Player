@@ -1,0 +1,9 @@
+{
+  "name": "twitch-vlc",
+  "title": "twitch-vlc",
+  "id": "jid1-u1IHzfTBJPVz7A",
+  "description": "Replaces Twitches flash player with an embeded VLC player for improved performance.",
+  "author": "Chad Kosie",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
